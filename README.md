@@ -1,5 +1,9 @@
 # 💫 About Me:
-- 🎓 B.Tech CSE Student.<br>- 💻 Learning & building with MERN Stack (MongoDB, Express, React, Node.js).<br>- 🚀 Interested in Web Development, Freelancing & Tech Projects.<br>- 📈 Working on improving consistency, discipline & coding skills.<br>- ⚡ Always open to learning new technologies and real-world problem solving.
+• 🎓 B.Tech CSE Student.  
+• 💻 Learning & building with MERN Stack (MongoDB, Express, React, Node.js).  
+• 🚀 Interested in Web Development, Freelancing & Tech Projects.  
+• 📈 Improving consistency, discipline & coding skills.  
+• ⚡ Open to learning new technologies and real-world problem solving.
 
 
 ## 🌐 Socials:

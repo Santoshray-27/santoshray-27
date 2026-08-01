@@ -1,31 +1,166 @@
-# 🙋‍♂️ About Me:
-• 🎓 B.Tech CSE Student.  
-• 💻 Learning & building with MERN Stack (MongoDB, Express, React, Node.js).  
-• 🚀 Interested in Web Development, Freelancing & Tech Projects.  
-• 📈 Improving consistency, discipline & coding skills.  
-• ⚡ Open to learning new technologies and real-world problem solving.
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,100:2b5876&text=Santosh%20Ray&fontSize=60&fontColor=E6F1FF&animation=fadeIn&fontAlignY=38&desc=B.Tech%20CSE%20Student%20%7C%20Aspiring%20Full-Stack%20Developer&descAlignY=59&descSize=18" alt="Santosh Ray Header"/>
+</p>
+
+<!-- ================= TYPING ANIMATION ================= -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=4DA3FF&background=00000000&center=true&vCenter=true&repeat=true&width=850&height=50&lines=Building+responsive+web+experiences;Learning+and+building+with+the+MERN+Stack;Turning+ideas+into+real-world+products;Open+to+freelance+projects+and+collaboration" alt="Typing Animation"/>
+</p>
+
+<!-- ================= SOCIAL LINKS ================= -->
+
+<p align="center">
+  <a href="https://linkedin.com/in/iamsantoshray">
+    <img src="https://img.shields.io/badge/LinkedIn-2b5876?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/santoshray_27">
+    <img src="https://img.shields.io/badge/X-2b5876?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/santoshray_27">
+    <img src="https://img.shields.io/badge/Instagram-2b5876?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:iamsantoshray27@gmail.com">
+    <img src="https://img.shields.io/badge/Email-2b5876?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/blue.png" height="2"/>
+</p>
+
+## About Me
+
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+
+- 🎓 Pursuing a **B.Tech in Computer Science & Engineering**
+- 💻 Learning and building applications with the **MERN Stack**
+- 🚀 Interested in **Web Development, Freelancing and Tech Projects**
+- 🧠 Strengthening my **problem-solving and programming fundamentals**
+- 📈 Focused on writing better code and staying consistent every day
+- 🌱 Always exploring new technologies and development practices
+- 🤝 Open to **collaboration, freelance work and real-world projects**
+- 📫 Contact me at **[iamsantoshray27@gmail.com](mailto:iamsantoshray27@gmail.com)**
+
+<br clear="both"/>
+
+<!-- ================= CURRENT FOCUS ================= -->
+
+## Current Focus
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <h3>🔨 Building</h3>
+      <p>Responsive and useful<br/>full-stack web applications</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>📚 Learning</h3>
+      <p>MERN Stack, programming<br/>and problem-solving</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>🚀 Growing</h3>
+      <p>Consistency, clean code<br/>and development skills</p>
+    </td>
+  </tr>
+</table>
+
+<!-- ================= TECHNICAL SKILLS ================= -->
+## 💻 Technical Skills
+
+<div align="center">
+
+### 🚀 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript&theme=dark"/>
+
+<br/>
+
+### 🎨 Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs,vite,redux&theme=dark"/>
+
+<br/>
+
+### ⚙️ Backend Development
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,npm&theme=dark"/>
+
+<br/>
+
+### 🗄️ Databases & Cloud
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,supabase&theme=dark"/>
+
+<br/>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/santoshray_27) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamsantoshray) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/santoshray_27) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iamsantoshray27@gmail.com) 
+### 🛠️ Tools & DevOps
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=santoshray-27&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=santoshray-27&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=santoshray-27&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,postman,vercel,netlify,vscode,figma&theme=dark"/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=santoshray-27&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 💻 Operating Systems
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=santoshray-27&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<img src="https://skillicons.dev/icons?i=linux,windows&theme=dark"/>
 
----
-[![](https://komarev.com/ghpvc/?username=santoshray-27&icon=2&color=4)](https://visitcount.itsvg.in)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
+
+<!-- ================= GITHUB STATS ================= -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+  <img width="49%" src="https://streak-stats.demolab.com?user=santoshray-27&theme=github-dark&hide_border=true&background=0f2027&ring=4DA3FF&fire=4DA3FF&currStreakLabel=4DA3FF"/>
+</div>
+
+<br/>
+
+<br/>
+<!-- ================= ACTIVITY GRAPH ================= -->
+
+## Contribution Activity
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=santoshray-27&bg_color=0f2027&color=4DA3FF&line=4DA3FF&point=E6F1FF&area=true&hide_border=true"/>
+
+<!-- ================= TROPHIES ================= -->
+
+
+
+<!-- ================= DEVELOPER QUOTE ================= -->
+
+## Developer Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia"/>
+</p>
+
+<!-- ================= CONTACT CTA ================= -->
+
+## Let's Build Something Together
+
+<p align="center">
+  I'm interested in web development, freelance opportunities and collaborative projects.
+</p>
+
+<p align="center">
+  <a href="mailto:iamsantoshray27@gmail.com">
+    <img src="https://img.shields.io/badge/Let's%20Connect-2b5876?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/iamsantoshray">
+    <img src="https://img.shields.io/badge/Message%20Me-2b5876?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <i>"Consistency turns small efforts into remarkable results."</i>
+</p>
+
+<!-- ================= FOOTER ================= -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0f2027,100:2b5876&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=E6F1FF"/>

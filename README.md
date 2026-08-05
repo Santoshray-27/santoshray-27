@@ -55,7 +55,7 @@
     </td>
     <td align="center" width="33%">
       <h3>📚 Learning</h3>
-      <p>MERN Stack, programming<br/>and problem-solving</p>
+      <p>MERN Stack,GENAI programming<br/>and problem-solving</p>
     </td>
     <td align="center" width="33%">
       <h3>🚀 Growing</h3>

@@ -51,7 +51,7 @@
   <tr>
     <td align="center" width="33%">
       <h3>🔨 Building</h3>
-      <p>Responsive and useful<br/>full-stack web applications</p>
+      <p>Responsive and useful<br/>full-stack web ai applications</p>
     </td>
     <td align="center" width="33%">
       <h3>📚 Learning</h3>
